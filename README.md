@@ -8,7 +8,7 @@ This HTML code represents a personal website showcasing your portfolio and provi
 ## Usage
 To use this code and customize it for your own website, follow these steps:
 1. Save this HTML code as an `.html` file.
-2. Create an `image` directory and place your images in it, ensuring the image paths in the code match the actual file paths.
+2. Place your `images` anywhere but, ensuring the image paths in the code match the actual file paths.
 3. Update the content to reflect your personal information, including the introduction, about me details, services offered, and portfolio items.
 4. Modify the links to your GitHub or other relevant profiles.
 5. Customize the color scheme, fonts, and styling by updating the CSS in the `style.css` file.
