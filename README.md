@@ -1,2 +1,23 @@
-# My-Portfolio
- Priyanshu Singh Kakusth  **Email:** priyanshusinghkakusth@gmail.com   **Phone:** +91 8929020833   **Location:** Delhi  ### Education  - **B.Tech in Computer Science & Engineering**     HMR Institute of Technology and Management, 2022 - 2026  - **Senior Secondary (XII), Science**     Kendriya Vidyalaya No3 Delhi Cantt 10, 2021, 78%  ### Work Experience  - **Chapter Representative**, Robin Hood Army, Central     Jan 2024 - Present  - **Campus Ambassador**, Coding Ninja, Delhi     May 2023 - Present  - **Youth Influencer**, ULEAD, Virtual     Apr 2023 - Present  - **Founder**, WEGROW CONSULTANCY AND SOLUTION, Delhi     Dec 2022 - Present  - **Social Media Marketing**, Project Aashreinn, Delhi     Jan 2022 - Jan 2023  - **Owner**, AAKARSH FRESH, Delhi     Nov 2021 - Present  ### Skills  - **Technical:** JavaScript, HTML, WordPress, ReactJS, Node.js, MySQL, Firebase, PHP - **Marketing:** Social Media Marketing, Digital Marketing, Content Writing  ### Projects  - **AI-Chatbot**     [GitHub](https://github.com/Priyanshu231202/AI-Chatbot)  - **Robin Hood Army 10 Year India Meet Website**     [Website](https://priyanshu231202.github.io/RHAMEET2024-MEET/)  - **Krishi Yogi**     [GitHub](https://github.com/Priyanshu231202/KrishiYogi)  - **Seller Center Dashboard**     Jan 2024 - Present  ### Portfolio  - **GitHub:** [https://github.com/Priyanshu231202](https://github.com/Priyanshu231202)  ---  This version provides a clear and concise summary of your background, skills, and projects.ia, Davi
+# MY-portfolio-website
+https://adesh-commits.github.io/MY-portfolio-website/
+# My Website README
+
+## Overview
+This HTML code represents a personal website showcasing your portfolio and providing information about you, Adesh. The website features a responsive design with various sections including an introduction, an about me page, a services section, and a portfolio display. It also includes a dynamic tabbed interface to view skills, experience, and education information. 
+
+## Usage
+To use this code and customize it for your own website, follow these steps:
+1. Save this HTML code as an `.html` file.
+2. Create an `image` directory and place your images in it, ensuring the image paths in the code match the actual file paths.
+3. Update the content to reflect your personal information, including the introduction, about me details, services offered, and portfolio items.
+4. Modify the links to your GitHub or other relevant profiles.
+5. Customize the color scheme, fonts, and styling by updating the CSS in the `style.css` file.
+
+## Dependencies
+- Font Awesome: Icons are used for various sections and links.
+- CSS (style.css): Styling is defined in the external CSS file for easy customization.
+
+## Author
+- Priyanshu Singh
+
+Feel free to customize this website code to showcase your own work and personal information. It provides a simple and clean design for sharing your portfolio and introducing yourself to visitors.
